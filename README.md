@@ -11,6 +11,6 @@ various APIroutes to handle userlogin and register along with providing
 products details. It also interacts with MangoDB database to save and
 retrieve data.
 
-• It also has Admin dashboard and chat with admin option also.
+
 
 • Technology used : MongoDB , Express , Axios ,React, NodeJS , Redux
